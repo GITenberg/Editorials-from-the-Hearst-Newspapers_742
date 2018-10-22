@@ -1,5 +1,5 @@
 _repo: Editorials-from-the-Hearst-Newspapers_742
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Editorials'
 - !lcsh 'Essays'
 - !lcc 'PS'
+- GITenberg
 title: Editorials from the Hearst Newspapers
 url: http://www.gutenberg.org/ebooks/742
